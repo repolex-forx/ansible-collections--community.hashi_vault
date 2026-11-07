@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.hashi_vault",
+  "versions": [
+    {
+      "commit": "2a0b75ce88e1deb08822b587461f2987b7710c72",
+      "tag": "",
+      "parsed_at": "2026-11-07T16:33:48.117550+00:00"
+    }
+  ]
+}
