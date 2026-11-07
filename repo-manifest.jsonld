@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.hashi_vault/commit/2a0b75ce88e1deb08822b587461f2987b7710c72",
       "git:hexsha": "2a0b75ce88e1deb08822b587461f2987b7710c72",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T16:33:48.116859+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.hashi_vault/commit/08349a34f176f3ae3d701d4ee9dc5b008f912f7a",
